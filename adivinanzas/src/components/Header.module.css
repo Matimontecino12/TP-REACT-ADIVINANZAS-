@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:blue;
+    color: #fff;
+}
+.title {
+    font-size: 24px;
+}
+.nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.nav a:hover {
+    text-decoration: underline;
+}
